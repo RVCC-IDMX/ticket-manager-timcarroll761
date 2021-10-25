@@ -10,6 +10,7 @@
   "rules": {
     "no-console": "off",
     "no-trailing-spaces": "error",
-    "no-plusplus": "off"
+    "no-plusplus": "off",
+    "class-methods-use-this": "off"
   }
 }
